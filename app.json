@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Service Ceo",
+    "slug": "service-ceo-properties",
+    "scheme": "serviceceoproperties",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0E1013",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.aarsvold.serviceceoproperties"
+    },
+    "android": {
+      "package": "com.aarsvold.serviceceoproperties"
+    },
+    "plugins": ["expo-router"]
+  }
+}
